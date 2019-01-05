@@ -41,12 +41,6 @@
 			<version>RELEASE</version>
 		</dependency>
 
-		<dependency>
-			<groupId>com.github.chenxing2.motan</groupId>
-			<artifactId>spring-boot-starter-motan</artifactId>
-			<version>0.1</version>
-		</dependency>
-
 	</dependencies>
 
 	<build>
